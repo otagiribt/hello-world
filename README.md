@@ -1,2 +1,3 @@
 # hello-world
-made for learn github.
+githubを学ぶために作られました。
+ちょっとだけ
